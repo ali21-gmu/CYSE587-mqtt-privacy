@@ -47,9 +47,15 @@ pip install paho-mqtt
 pip install cryptography
 ```
 
-### Run Broker
+### MQTT Configuration and Broker Setup
+Start broker with default settings by running:
 ```bash
 mosquitto.exe -v
+```
+
+Optional Usage: you can start Mosquitto broker with a custom configuration file (`custom.conf`)
+```bash
+mosquitto.exe -c custom.conf
 ```
 
 ---
