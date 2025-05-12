@@ -1,6 +1,6 @@
 # SCENARIO.md
 
-## 🛠️ Scenario Setup Instructions
+## Scenario Setup Instructions
 
 ### How to Run the Scenario
 #### A. Start Mosquitto Broker
