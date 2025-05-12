@@ -22,7 +22,7 @@ or
 python subscriber_pet.py
 ```
 
-### C. Start the Publisher
+#### C. Start the Publisher
 In the third terminal, run:
 ```bash
 python publisher.py
