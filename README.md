@@ -37,7 +37,7 @@ This project simulates a MQTT disaster response system, using a publisher, subsc
 ## Installation
 ### Install Mosquitto Broker
 - Go to downloads at Mosquitto webpage [Mosquitto MQTT Downloads](https://mosquitto.org/download/)
-- Download and install the mosquitto-2.0.21a-install-windows-x64.exe installer under Windows
+- Download "mosquitto-2.0.21a-install-windows-x64.exe" under Windows and run the installer
 
 ### Library Installation
 ```bash
